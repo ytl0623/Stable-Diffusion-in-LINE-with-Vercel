@@ -1,6 +1,5 @@
 import os
 import replicate
-import urllib.request
 
 class StableDiffusion:
     def __init__(self):
